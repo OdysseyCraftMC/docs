@@ -16,8 +16,6 @@ Vous y trouverez :
 * ⚙️ les systèmes de gameplay
 * 🌍 les zones et régions explorables
 * 🔮 les mécaniques magiques
-* 🧩 les concepts de conception du serveur
-* 🛠️ la documentation technique du projet
 
 ---
 
